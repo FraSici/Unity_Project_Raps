@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 428791bf1fe566e4f8dea75245f198ed, type: 3}
+  m_Name: MultiShot
+  m_EditorClassIdentifier: 
+  magicCost: 30
+  duration: 0.3
+  playerMagic: {fileID: 11400000, guid: 6298d28d2d413034c81e850dc24afe07, type: 2}
+  usePlayerMagic: {fileID: 11400000, guid: 13b4b72fccf0da04ea0e84972bc5a474, type: 2}
+  projectilePrefab: {fileID: 2556779424907762204, guid: 16b60001f9733284eb395567fc66c897,
+    type: 3}
+  nProjectiles: 3
+  projectilesSpread: 60

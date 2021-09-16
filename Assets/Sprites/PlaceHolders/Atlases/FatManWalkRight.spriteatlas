@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FatManWalkRight
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+    totalSpriteSurfaceArea: 33618
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8234516007416668571, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 2469667257664082937, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -6923537432671904623, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 8052916959111842945, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 2533565279870491045, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 9146888946979397047, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 2805637493225520202, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 1691962385547165086, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -5982441712568326621, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -5083110534947402454, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 1803340607847265276, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 2883463154829497374, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 4170105483784822239, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 2316513132760938527, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 7719304755960151484, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -4485689489105479153, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -2330348494626578400, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 2984802269831981928, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 7556782201854594922, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 4267950503391905097, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -4130439065823088606, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 847935155082270095, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 3477369290968435475, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 5767275255191683340, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 1101090499109149295, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -5993365956572741452, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -3687311468968048348, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -3285700616121986192, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -369938199194639711, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -8494061539158807432, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -653890625263646110, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 8112348649144018713, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -490677927173001513, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -9030137347597998494, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 2586504766413460349, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 5793686053779459786, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -5476639753004766231, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: 5175038313088391503, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  - {fileID: -3480438000951201404, guid: a9ddfaad04b6cf24d9f8565ea8709635, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fat_Right_33
+  - Fat_Right_32
+  - Fat_Right_31
+  - Fat_Right_30
+  - Fat_Right_37
+  - Fat_Right_36
+  - Fat_Right_35
+  - Fat_Right_19
+  - Fat_Right_34
+  - Fat_Right_18
+  - Fat_Right_39
+  - Fat_Right_38
+  - Fat_Right_11
+  - Fat_Right_10
+  - Fat_Right_13
+  - Fat_Right_12
+  - Fat_Right_15
+  - Fat_Right_14
+  - Fat_Right_17
+  - Fat_Right_16
+  - Fat_Right_2
+  - Fat_Right_3
+  - Fat_Right_0
+  - Fat_Right_1
+  - Fat_Right_6
+  - Fat_Right_7
+  - Fat_Right_5
+  - Fat_Right_8
+  - Fat_Right_9
+  - Fat_Right_20
+  - Fat_Right_21
+  - Fat_Right_22
+  - Fat_Right_23
+  - Fat_Right_24
+  - Fat_Right_25
+  - Fat_Right_26
+  - Fat_Right_27
+  - Fat_Right_28
+  - Fat_Right_29
+  m_Tag: FatManWalkRight
+  m_IsVariant: 0

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - Breakables
+  - Camera
+  - LevelChanger
+  - DungeonArea
+  - Walkable
+  - N_Walkable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - Walls
+  - Player
+  - Walls-Front
+  - Elements
+  - Player-Feats
+  - Enemies
+  - Obstacles
+  - EnemyAtks
+  - Holes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 1135472989
+    locked: 0
+  - name: Terrain
+    uniqueID: 1834759501
+    locked: 0
+  - name: Elements-Back
+    uniqueID: 1084213137
+    locked: 0
+  - name: Player
+    uniqueID: 1838083061
+    locked: 0
+  - name: Player-Feats
+    uniqueID: 3176277887
+    locked: 0
+  - name: Enemies
+    uniqueID: 1509216053
+    locked: 0
+  - name: Elements-Front
+    uniqueID: 3191591291
+    locked: 0
+  - name: Walls-Front
+    uniqueID: 1227502231
+    locked: 0
